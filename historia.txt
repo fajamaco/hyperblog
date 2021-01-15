@@ -6,7 +6,7 @@ de mi curso de python
 
 tambien estoy aprendiendo a usar comandos 
 
-para git y hacer commit (y no me sale esta madre)
+y ya hice un blog
   
 
   saludos.
