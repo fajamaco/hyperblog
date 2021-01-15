@@ -2,6 +2,14 @@ Hola este es el primer archivo
 
 
 de mi curso de python
+
+
+tambien estoy aprendiendo a usar comandos 
+
+para git y hacer commit (y no me sale esta madre)
   
 
-  saludos 
+  saludos.
+
+  PD. me costo un huevo intalar vsc
+  
