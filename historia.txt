@@ -1,0 +1,7 @@
+Hola este es el primer archivo
+
+
+de mi curso de python
+  
+
+  saludos 
