@@ -6,7 +6,9 @@ de mi curso de python
 
 tambien estoy aprendiendo a usar comandos 
 
-y ya hice un blog
+y ya hice un blog.
+
+Ahora estoy en github. 
   
 
   saludos.
